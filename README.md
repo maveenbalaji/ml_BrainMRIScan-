@@ -40,3 +40,6 @@ To get started with this project, you need to clone the repository and install t
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/brain-tumor-detection.git
+
+![WhatsApp Image 2025-02-15 at 20 23 40_f48a1d37](https://github.com/user-attachments/assets/5a076b75-6251-4029-a671-ade282515bd1)
+
